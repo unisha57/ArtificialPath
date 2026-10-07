@@ -1,2 +1,2 @@
 # ArtificialPath
-ArcPy scripts for EDH artificial path generation. Alternative of 'Polygon to Centerline' toolbox.
+ArcPy toolbox scripts developed to automate Artificial Path generation for the EDH workflow. The tools provide an alternative to the Polygon To Centerline geoprocessing tool, avoiding the need for an Advanced ArcGIS Pro license. Using the Collapse Hydro Polygon approach, the scripts generate artificial paths by connecting stream endpoints within hydrographic polygons while adhering to USGS EDH hydrography standards.
